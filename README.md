@@ -5,4 +5,4 @@
 - 📫 How to reach me stef.popina.andrei@gmail.com or in github at @franticboDev
 
 COPYRIGHT : all files are made by me (lul @franticboDev).
-  DO NOT delete THIS file for legal reason(or you probably get hurt :D)
+                              DO NOT delete THIS file for legal reason(or you probably get hurt :D)
